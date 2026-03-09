@@ -8,5 +8,5 @@ The repository includes the following ML lab experiments:
 1. Python Libraries for ML
 2. Linear Regression
 3. Logistic Regression
-4. Decision Tree model
-5. Random Forest Algorithm
+4. Random Forest Algorithm
+5. Decision Tree model
