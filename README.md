@@ -11,3 +11,4 @@ The repository includes the following ML lab experiments:
 4. Random Forest Algorithm
 5. Decision Tree model
 6. Artificial Neural Network
+7. Apply Support Vector Machine for classification
