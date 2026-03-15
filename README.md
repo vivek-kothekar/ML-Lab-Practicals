@@ -13,3 +13,4 @@ The repository includes the following ML lab experiments:
 6. Artificial Neural Network
 7. Apply Support Vector Machine for classification
 8. Principal Component Analysis
+9. K-Means Clustering Algorithm
