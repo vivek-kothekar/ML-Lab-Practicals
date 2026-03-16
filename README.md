@@ -14,3 +14,4 @@ The repository includes the following ML lab experiments:
 7. Apply Support Vector Machine for classification
 8. Principal Component Analysis
 9. K-Means Clustering Algorithm
+10. Hierarchical Clustering Using Agglomerative Method
