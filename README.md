@@ -15,3 +15,4 @@ The repository includes the following ML lab experiments:
 8. Principal Component Analysis
 9. K-Means Clustering Algorithm
 10. Apply Hierarchical Clustering Using Agglomerative Method
+11. Implement a complete regression problem
